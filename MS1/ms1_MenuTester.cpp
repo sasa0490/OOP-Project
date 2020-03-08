@@ -2,12 +2,13 @@
 Final Project Milestone 1
 Module: Menu
 Filename: ms1_MenuTester.cpp
-Version 1.0
+Version 1.1
 Author	Fardad Soleimanloo
 Revision History
 -----------------------------------------------------------
 Date      Reason
 2020/3/2  Preliminary release
+2020/3/8  Corrected sample output and correct_output.txt
 -----------------------------------------------------------*/
 
 #include <iostream>
@@ -150,7 +151,7 @@ M1T4: Menu deep assignment with no items
 ******************************************************************
 M1T5: Reseting Menu title and running an empty menu with no Items
 ==================>
-** New Title **
+        ** New Title **
 No Items to display!
 0 returned by the Menu with no Items.
 Press enter to continue...
@@ -163,11 +164,11 @@ M1T7: Deep assignment
 ==================>
 Do the following:
 1 <ENTER>
-** Sub Menu **
-1- The first
-2- The second
-3- The third
-> 1
+        ** Sub Menu **
+        1- The first
+        2- The second
+        3- The third
+        > 1
 1 selected!
 Press enter to continue...
 
